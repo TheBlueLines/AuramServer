@@ -1,0 +1,36 @@
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.exe
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.deps.json
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.runtimeconfig.json
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.dll
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\ref\Auram Server.dll
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.pdb
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram.dll
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram.pdb
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.AssemblyInfo.cs
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.ImplicitNamespaceImports.cs
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.dll
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\ref\Auram Server.dll
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.pdb
+C:\Users\admin\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.genruntimeconfig.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.exe
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.deps.json
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.runtimeconfig.json
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\ref\Auram Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram Server.pdb
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\bin\Debug\net6.0\Auram.pdb
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.csproj.AssemblyReference.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.AssemblyInfo.cs
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.ImplicitNamespaceImports.cs
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\ref\Auram Server.dll
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.pdb
+C:\Users\David\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\source\repos\Auram Server\obj\Debug\net6.0\Auram Server.genruntimeconfig.cache
